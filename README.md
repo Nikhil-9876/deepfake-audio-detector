@@ -12,7 +12,6 @@
 
 Impact is a production-ready system for the **AI Voice Detection Hackathon** that classifies audio as **AI_GENERATED** or **HUMAN** with high confidence scores (typically >0.80). Built specifically for multilingual Indian language support, it combines Microsoft's WavLM foundation model with dual classification heads (AASIST + OC-Softmax) to meet all hackathon evaluation requirements.
 
----
 
 ## 🏆 Hackathon Compliance
 
