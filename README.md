@@ -12,6 +12,26 @@
 
 Impact is a production-ready system for the **AI Voice Detection Hackathon** that classifies audio as **AI_GENERATED** or **HUMAN** with high confidence scores (typically >0.80). Built specifically for multilingual Indian language support, it combines Microsoft's WavLM foundation model with dual classification heads (AASIST + OC-Softmax) to meet all hackathon evaluation requirements.
 
+## 👥 Team CUDEPT  
+
+This project was developed by **Team CUDEPT** as part of the *India AI Impact Buildathon*, focusing on AI vs Human Voice Detection through a deployable API system.
+
+---
+
+### 🚀 Team Members  
+
+- **Nihar Mehta**  
+  🔗 [LinkedIn](https://www.linkedin.com/in/niharmehta245/)
+
+  - **Nikhil Solanki**  
+  🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsolanki9876/)
+
+- **Parth Srivastava**  
+  🔗 [LinkedIn](https://www.linkedin.com/in/parth-srivastava-aa6b032aa/)
+
+- **Harsh Shah**  
+  🔗 [LinkedIn](https://www.linkedin.com/in/harsh-shah-b670b5275/)
+
 
 ## 🏆 Hackathon Compliance
 
