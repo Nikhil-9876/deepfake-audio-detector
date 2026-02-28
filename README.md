@@ -23,7 +23,7 @@ This project was developed by **Team CUDEPT** as part of the *India AI Impact Bu
 - **Nihar Mehta**  
   🔗 [LinkedIn](https://www.linkedin.com/in/niharmehta245/)
 
-  - **Nikhil Solanki**  
+- **Nikhil Solanki**  
   🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsolanki9876/)
 
 - **Parth Srivastava**  
